@@ -33,6 +33,6 @@ This repository introduces the use of **Natural Language Toolkit (NLTK)** in Pyt
 - Evaluate Gradient-Boosting Model Performance
 - Model Selection
 
-Resources: [Natural Language Tookkit](https://www.nltk.org/)  |  [Scikit-Learn](https://scikit-learn.org/stable/)
+Resources:   [Natural Language Tookkit](https://www.nltk.org/)   |   [Scikit-Learn](https://scikit-learn.org/stable/)
 
 Copyright © 2020 Norman Lo
