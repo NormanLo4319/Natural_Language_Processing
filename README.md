@@ -1,5 +1,5 @@
 # Natural Language Processing
-This repository introduces the use of **Natural Language Toolkit (NLTK)** in Python for **Natural Language Processing (NLP)** and **Scikit Learn** package for building a **Decision Tree Classifier**.
+This repository introduces the use of **Natural Language Toolkit (NLTK)** in Python for **Natural Language Processing (NLP)** and **Scikit Learn** package for building a **Decision Tree Classifier**. The code and examples are written in Jupter Notebook.
 
 ## Part I - NLP Basics
 - Setup NLTK package and Reading in Text Data
